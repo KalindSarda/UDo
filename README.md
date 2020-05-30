@@ -9,7 +9,7 @@ A to-do app build in flutter.
 - delete all the categories.
 
 ##Snapshots
-![1](https://user-images.githubusercontent.com/47468438/83323340-c3549980-a27b-11ea-95f5-fd37ceea7699.jpeg=250x250)
+![1](https://user-images.githubusercontent.com/47468438/83323340-c3549980-a27b-11ea-95f5-fd37ceea7699.jpeg| width=100)
 ![2](https://user-images.githubusercontent.com/47468438/83323363-e5e6b280-a27b-11ea-8744-6b15a7138430.jpeg=250x250)
 ![3](https://user-images.githubusercontent.com/47468438/83323365-e97a3980-a27b-11ea-8fd0-5da927331111.jpeg=250x250)
 ![4](https://user-images.githubusercontent.com/47468438/83323366-ebdc9380-a27b-11ea-92de-a7e34a332331.jpeg=250x250)
